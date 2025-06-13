@@ -1,8 +1,7 @@
 # IRCTC Migration on AWS – Architecture Design
 
 ## Project Overview
-This project outlines a high-level architecture design for migrating the Indian Railway Catering and Tourism Corporation (IRCTC) platform from on-premise infrastructure to AWS Cloud. The project focuses on scalability, reliability, cost optimization, and secure infrastructure setup using AWS services such as EC2, RDS, Lambda, Route 53, CloudWatch, and more.  
-I worked on this as part of my AWS Cloud Internship at F13 Technologies, in collaboration with my team.
+This project was designed as part of our AWS Cloud Internship at F13 Technologies. It focuses on migrating the Indian Railway Catering and Tourism Corporation (IRCTC) platform to the AWS Cloud, improving performance, scalability, and cost-efficiency.
 
 The migration aims to enhance:
 - System reliability
