@@ -27,7 +27,7 @@ The migration aims to enhance:
 
 ## Architecture Diagram
 
-![Architecture](https://drive.google.com/file/d/1hnUTa7jmP1yfHHIH7chV4xOJz2xRDwUW/view?usp=sharing)
+![Architecture Diagram](https://drive.google.com/file/d/1hnUTa7jmP1yfHHIH7chV4xOJz2xRDwUW)
 
 ---
 
