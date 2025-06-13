@@ -29,6 +29,17 @@ The migration aims to enhance:
 ![Image](https://github.com/user-attachments/assets/0c3afcc5-fa50-4aab-8395-54754f9e6822)
 
 ---
+## Projected Outcomes
+
+Based on AWS best practices and service benchmarks, the proposed architecture is expected to:
+
+- Handle up to 10× peak traffic (3M+ concurrent bookings) using Auto Scaling and Load Balancing
+- Reduce infrastructure costs by 30–50% via serverless (Lambda) and pay-as-you-go pricing
+- Improve latency by up to 40% with CloudFront and Aurora RDS
+- Ensure 99.99% uptime using Multi-AZ deployments
+- Strengthen security with IAM policies and AWS KMS for encryption and access control
+
+---
 
 ## Scalability, Reliability & Cost Optimization
 
