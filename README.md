@@ -27,7 +27,7 @@ The migration aims to enhance:
 
 ## Architecture Diagram
 
-![Architecture](Architecture_Diagram/irctc_architecture.png)
+![Architecture](https://drive.google.com/file/d/1hnUTa7jmP1yfHHIH7chV4xOJz2xRDwUW/view?usp=sharing)
 
 ---
 
@@ -61,7 +61,7 @@ The migration aims to enhance:
 
 ## 📄 Full Report
 
-Find the complete report in [`docs/IRS_on_AWS_Report.pdf`](docs/IRS_on_AWS_Report.pdf)
+Find the complete report in [here](https://drive.google.com/file/d/1zFZ2FignTbk3d-HapTOowsuLXsuAGW11/view?usp=sharing)
 
 ---
 
